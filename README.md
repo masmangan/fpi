@@ -14,7 +14,7 @@ simple and flexible workflow with complete support for the type of media
 produced by photographers.
 
 Currently, there are simple and powerful tools for Microsoft's Windows
-and Apple's macOs, and although there are several tools for the Linux
+and Apple's macOS, and although there are several tools for the Linux
 Operating System, these tools are either too limited, or too complex.
 
 The goal of this project is to build a tool focused on photographers,
