@@ -32,15 +32,9 @@ support both video and audio files.
 
 f/π will have support for:
 
-    - Catalog based media management, allowing management of offline
-    files.
-
-    - Multiple storage units, be it local, network or cloud storage.
-
-    - International metadata standards, such as EXIF, IPTC and XMP.
-
-    - Image tagging with hierarchical keywords, labels, ratings and
-    selection attributes.
-
-    - Multiple operating systems, such as Linux, macOS and
-    Windows.
+- Catalog based media management, allowing management of offline files.
+- Multiple storage units, be it local, network or cloud storage.
+- International metadata standards, such as EXIF, IPTC and XMP.
+- Image tagging with hierarchical keywords, labels, ratings and
+  selection attributes.
+- Multiple operating systems, such as Linux, macOS and Windows.
